@@ -1,0 +1,8 @@
+.storybook/*.js
+src/stories/
+node_modules
+public
+postcss.config.js
+.config/*.ts
+style.scss
+style.css
